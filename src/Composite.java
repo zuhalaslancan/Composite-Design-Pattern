@@ -13,6 +13,7 @@ public class Composite implements Component {
     }
 
     public void setComponentList(List<Component> componentList) {
+        
         this.componentList = componentList;
     }
 

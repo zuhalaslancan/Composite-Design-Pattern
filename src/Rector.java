@@ -21,7 +21,7 @@ public class Rector { // this is client
         System.out.println(ieu);
         Course oryantasyon= new Course("oryantasyon " , 50);
         ieu.add(oryantasyon);
-        
+
         System.out.println(ieu);
 
 
